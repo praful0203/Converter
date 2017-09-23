@@ -26,7 +26,8 @@
             <EditText
                 android:layout_width="310dp"
                 android:layout_height="match_parent"
-                android:id="@+id/txt_number"/>
+                android:id="@+id/txt_number"
+                android:inputType="number"/>
 
                 <android.support.v7.widget.AppCompatImageButton
                     android:layout_width="match_parent"
